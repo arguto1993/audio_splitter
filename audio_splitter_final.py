@@ -1,6 +1,6 @@
-from pydub import AudioSegment
 import math
 import os
+from pydub import AudioSegment
 from tqdm import tqdm
 
 # Set ffmpeg paths to local executables
